@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     name="fitconnect_client",
     packages=find_packages(include=["fitconnect_client", "fitconnect_client.objects"]),
-    version="0.1.1",
+    version="0.1.2",
     description="A python SDK to interact with the German Fitconnect system",
     long_description="A python SDK to interact with the German Fitconnect system",
     author="Jon Bulica",
