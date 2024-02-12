@@ -1,10 +1,10 @@
 import requests
 from hashlib import sha512
-from .log import logger
-from .environment import Environment, ENV_CONFIG
-from .objects import Attachment, Submission
-from .objects.exception import APIError
-from .crypto import convert_dict_to_json_bytes, encrypt_dict_with_key, encrypt_bytes_with_key
+from fitconnect_client.log import logger
+from fitconnect_client.environment import Environment, ENV_CONFIG
+from fitconnect_client.objects import Attachment, Submission
+from fitconnect_client.objects.exception import APIError
+from fitconnect_client.crypto import convert_dict_to_json_bytes, encrypt_dict_with_key, encrypt_bytes_with_key
 
 
 class FitconnectClient:
