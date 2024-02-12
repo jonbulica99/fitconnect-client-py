@@ -2,7 +2,7 @@ import mimetypes
 import uuid
 from hashlib import sha512
 from pathlib import Path
-from log import logger
+from fitconnect_client.log import logger
 
 
 class Attachment:

@@ -1,4 +1,4 @@
-from objects.attachment import Attachment
+from fitconnect_client.objects.attachment import Attachment
 
 
 class Submission:
