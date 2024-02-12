@@ -1,5 +1,5 @@
 # fitconnect-client-py
-This is a python SDK for the German [Fitconnect](https://docs.fitko.de/fit-connect/docs/) system. This is still a work in progress, it should however be possible to make simple submissions.
+This is a python SDK for the German [FIT-Connect](https://docs.fitko.de/fit-connect/docs/) system. This is still a work in progress, it should however be possible to make simple submissions.
 
 ## Usage
 
